@@ -7,7 +7,7 @@
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hallisontito&show_icons=true&theme=dark"/>
   <img align="right" alt="halls-gif" src="https://c.tenor.com/FnLx59Jw-Z8AAAAd/tenor.gif"><br>
-  <img height="166cm" height="30" weight="40"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisontito&layout=compact&langs_count=16&theme=dark"/>
+  <img height="166cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisontito&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ## Languages
